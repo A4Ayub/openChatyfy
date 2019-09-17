@@ -1,0 +1,3 @@
+Read more on Stanford Documentation - Stanford Recurrent Units Explanation on Maths
+
+https://github.com/Hvass-Labs/Tensorflow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb
